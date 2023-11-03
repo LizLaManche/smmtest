@@ -1,0 +1,4 @@
+baseURL = 'https://smmtest.org/'
+languageCode = 'en-us'
+title = 'SMM Test Site'
+theme = 'basictheme'
